@@ -1,0 +1,2 @@
+# 403DataStructure
+This program helps to solidify the use of data structures in C#. The program will simulate a group of people ordering "hamburgers". It creates a queue and then fills the queue with 100 random names. After filling the queue you create a dictionary that has the name as the key and int as number of burgers. When a key is already used in the dictionary, you simply update the value of the dictionary to be =+ current value.

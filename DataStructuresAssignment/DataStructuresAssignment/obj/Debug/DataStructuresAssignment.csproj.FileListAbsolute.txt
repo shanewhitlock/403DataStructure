@@ -1,0 +1,6 @@
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe.config
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.pdb
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.exe
+C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.pdb
